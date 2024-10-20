@@ -4,7 +4,9 @@ Introduction: This project focuses on analyzing bank loan data to gain insights 
 
 Key Features:
 SQL Queries: Efficient querying to extract insights from loan data, including good and bad loan performance.
+
 Power BI Dashboards: Visualizations such as line charts for monthly trends, bar charts for loan purposes, and treemaps for homeownership impact.
+
 Data Visualization: Detailed summaries, including KPIs and grid views, to help stakeholders make data-driven decisions.
 
 Tools Used: Power BI Desktop, SQL Server Management Studio
